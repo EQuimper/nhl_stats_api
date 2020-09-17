@@ -1,4 +1,4 @@
-module github.com/equimper/nhl_stats_api
+module github.com/EQuimper/nhl_stats_api
 
 go 1.15
 
