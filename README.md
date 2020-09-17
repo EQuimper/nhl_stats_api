@@ -6,7 +6,7 @@ This is an unofficial, Go API for the nhl api.
 
 ```go
 import (
- "github.com/equimper/nhl_stats_api"
+    "github.com/equimper/nhl_stats_api"
 )
 
 func main() {
