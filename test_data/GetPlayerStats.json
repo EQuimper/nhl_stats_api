@@ -1,0 +1,403 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "stats": [
+    {
+      "type": {
+        "displayName": "yearByYear"
+      },
+      "splits": [
+        {
+          "season": "20102011",
+          "stat": {
+            "assists": 30,
+            "goals": 27,
+            "pim": 45,
+            "games": 30,
+            "penaltyMinutes": "45",
+            "points": 57
+          },
+          "team": {
+            "name": "Don Mills",
+            "link": "/api/v1/teams/null"
+          },
+          "league": {
+            "name": "GTHL",
+            "link": "/api/v1/league/null"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20102011",
+          "stat": {
+            "assists": 1,
+            "goals": 1,
+            "pim": 0,
+            "games": 2,
+            "penaltyMinutes": "0",
+            "points": 2
+          },
+          "team": {
+            "name": "St. Michael's",
+            "link": "/api/v1/teams/null"
+          },
+          "league": {
+            "name": "ON-Jr.A",
+            "link": "/api/v1/league/null"
+          },
+          "sequenceNumber": 2
+        },
+        {
+          "season": "20112012",
+          "stat": {
+            "assists": 28,
+            "goals": 21,
+            "pim": 48,
+            "games": 62,
+            "powerPlayGoals": 6,
+            "penaltyMinutes": "48",
+            "shortHandedGoals": 0,
+            "plusMinus": 13,
+            "points": 49
+          },
+          "team": {
+            "id": 1876,
+            "name": "London",
+            "link": "/api/v1/teams/1876"
+          },
+          "league": {
+            "id": 141,
+            "name": "OHL",
+            "link": "/api/v1/league/141"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20122013",
+          "stat": {
+            "assists": 48,
+            "goals": 39,
+            "pim": 71,
+            "games": 64,
+            "powerPlayGoals": 14,
+            "penaltyMinutes": "71",
+            "shortHandedGoals": 1,
+            "plusMinus": 33,
+            "points": 87
+          },
+          "team": {
+            "id": 1876,
+            "name": "London",
+            "link": "/api/v1/teams/1876"
+          },
+          "league": {
+            "id": 141,
+            "name": "OHL",
+            "link": "/api/v1/league/141"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20132014",
+          "stat": {
+            "assists": 59,
+            "goals": 34,
+            "pim": 90,
+            "games": 61,
+            "powerPlayGoals": 11,
+            "penaltyMinutes": "90",
+            "gameWinningGoals": 6,
+            "shortHandedGoals": 3,
+            "plusMinus": 24,
+            "points": 93
+          },
+          "team": {
+            "id": 1876,
+            "name": "London",
+            "link": "/api/v1/teams/1876"
+          },
+          "league": {
+            "id": 141,
+            "name": "OHL",
+            "link": "/api/v1/league/141"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20142015",
+          "stat": {
+            "assists": 70,
+            "goals": 32,
+            "pim": 66,
+            "games": 57,
+            "powerPlayGoals": 12,
+            "penaltyMinutes": "66",
+            "gameWinningGoals": 6,
+            "shortHandedGoals": 2,
+            "plusMinus": 24,
+            "points": 102
+          },
+          "team": {
+            "id": 1876,
+            "name": "London",
+            "link": "/api/v1/teams/1876"
+          },
+          "league": {
+            "id": 141,
+            "name": "OHL",
+            "link": "/api/v1/league/141"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20142015",
+          "stat": {
+            "assists": 5,
+            "goals": 5,
+            "pim": 4,
+            "shots": 21,
+            "games": 7,
+            "powerPlayGoals": 0,
+            "penaltyMinutes": "4",
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": 10,
+            "points": 10
+          },
+          "team": {
+            "id": 60,
+            "name": "Canada",
+            "link": "/api/v1/teams/60"
+          },
+          "league": {
+            "id": 147,
+            "name": "WJC-A",
+            "link": "/api/v1/league/147"
+          },
+          "sequenceNumber": 2
+        },
+        {
+          "season": "20152016",
+          "stat": {
+            "timeOnIce": "1326:19",
+            "assists": 34,
+            "goals": 18,
+            "pim": 72,
+            "shots": 156,
+            "games": 81,
+            "hits": 34,
+            "powerPlayGoals": 3,
+            "powerPlayPoints": 15,
+            "powerPlayTimeOnIce": "244:12",
+            "evenTimeOnIce": "1063:18",
+            "penaltyMinutes": "72",
+            "faceOffPct": 36.36,
+            "shotPct": 11.5,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 1,
+            "shortHandedTimeOnIce": "18:49",
+            "blocked": 25,
+            "plusMinus": 3,
+            "points": 52,
+            "shifts": 1751
+          },
+          "team": {
+            "id": 53,
+            "name": "Arizona Coyotes",
+            "link": "/api/v1/teams/53"
+          },
+          "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20152016",
+          "stat": {
+            "assists": 0,
+            "goals": 1,
+            "pim": 4,
+            "shots": 8,
+            "games": 10,
+            "powerPlayGoals": 0,
+            "penaltyMinutes": "4",
+            "gameWinningGoals": 0,
+            "shortHandedGoals": 0,
+            "plusMinus": 0,
+            "points": 1
+          },
+          "team": {
+            "id": 60,
+            "name": "Canada",
+            "link": "/api/v1/teams/60"
+          },
+          "league": {
+            "id": 147,
+            "name": "WC-A",
+            "link": "/api/v1/league/147"
+          },
+          "sequenceNumber": 2
+        },
+        {
+          "season": "20162017",
+          "stat": {
+            "timeOnIce": "1001:52",
+            "assists": 29,
+            "goals": 9,
+            "pim": 40,
+            "shots": 108,
+            "games": 59,
+            "hits": 28,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 8,
+            "powerPlayTimeOnIce": "151:13",
+            "evenTimeOnIce": "844:06",
+            "penaltyMinutes": "40",
+            "faceOffPct": 50.0,
+            "shotPct": 8.3,
+            "gameWinningGoals": 1,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "06:33",
+            "blocked": 21,
+            "plusMinus": -9,
+            "points": 38,
+            "shifts": 1233
+          },
+          "team": {
+            "id": 53,
+            "name": "Arizona Coyotes",
+            "link": "/api/v1/teams/53"
+          },
+          "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20172018",
+          "stat": {
+            "timeOnIce": "1369:54",
+            "assists": 36,
+            "goals": 9,
+            "pim": 73,
+            "shots": 150,
+            "games": 82,
+            "hits": 49,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 9,
+            "powerPlayTimeOnIce": "213:20",
+            "evenTimeOnIce": "1152:32",
+            "penaltyMinutes": "73",
+            "faceOffPct": 44.9,
+            "shotPct": 6.0,
+            "gameWinningGoals": 0,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "04:02",
+            "blocked": 28,
+            "plusMinus": -7,
+            "points": 45,
+            "shifts": 1867
+          },
+          "team": {
+            "id": 53,
+            "name": "Arizona Coyotes",
+            "link": "/api/v1/teams/53"
+          },
+          "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20182019",
+          "stat": {
+            "timeOnIce": "1425:19",
+            "assists": 44,
+            "goals": 28,
+            "pim": 80,
+            "shots": 203,
+            "games": 82,
+            "hits": 53,
+            "powerPlayGoals": 4,
+            "powerPlayPoints": 11,
+            "powerPlayTimeOnIce": "210:34",
+            "evenTimeOnIce": "1210:13",
+            "penaltyMinutes": "80",
+            "faceOffPct": 44.88,
+            "shotPct": 13.8,
+            "gameWinningGoals": 2,
+            "overTimeGoals": 0,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "04:32",
+            "blocked": 39,
+            "plusMinus": 20,
+            "points": 72,
+            "shifts": 1751
+          },
+          "team": {
+            "id": 8,
+            "name": "Montréal Canadiens",
+            "link": "/api/v1/teams/8"
+          },
+          "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+          },
+          "sequenceNumber": 1
+        },
+        {
+          "season": "20192020",
+          "stat": {
+            "timeOnIce": "1213:55",
+            "assists": 27,
+            "goals": 17,
+            "pim": 35,
+            "shots": 179,
+            "games": 71,
+            "hits": 32,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 11,
+            "powerPlayTimeOnIce": "164:50",
+            "evenTimeOnIce": "1047:41",
+            "penaltyMinutes": "35",
+            "faceOffPct": 48.86,
+            "shotPct": 9.5,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 2,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "01:24",
+            "blocked": 13,
+            "plusMinus": -3,
+            "points": 44,
+            "shifts": 1518
+          },
+          "team": {
+            "id": 8,
+            "name": "Montréal Canadiens",
+            "link": "/api/v1/teams/8"
+          },
+          "league": {
+            "id": 133,
+            "name": "National Hockey League",
+            "link": "/api/v1/league/133"
+          },
+          "sequenceNumber": 1
+        }
+      ]
+    }
+  ]
+}

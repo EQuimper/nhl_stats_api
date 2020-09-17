@@ -1,0 +1,40 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "stats": [
+    {
+      "type": {
+        "displayName": "statsSingleSeason"
+      },
+      "splits": [
+        {
+          "season": "20192020",
+          "stat": {
+            "timeOnIce": "3439:49",
+            "ot": 6,
+            "shutouts": 4,
+            "ties": 0,
+            "wins": 27,
+            "losses": 25,
+            "saves": 1595,
+            "powerPlaySaves": 242,
+            "shortHandedSaves": 43,
+            "evenSaves": 1310,
+            "shortHandedShots": 45,
+            "evenShots": 1434,
+            "powerPlayShots": 276,
+            "savePercentage": 0.909,
+            "goalAgainstAverage": 2.7908,
+            "games": 58,
+            "gamesStarted": 58,
+            "shotsAgainst": 1755,
+            "goalsAgainst": 160,
+            "timeOnIcePerGame": "59:18",
+            "powerPlaySavePercentage": 87.68115942028986,
+            "shortHandedSavePercentage": 95.55555555555556,
+            "evenStrengthSavePercentage": 91.35285913528591
+          }
+        }
+      ]
+    }
+  ]
+}

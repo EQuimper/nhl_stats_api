@@ -1,0 +1,17 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "seasons": [
+    {
+      "seasonId": "20192020",
+      "regularSeasonStartDate": "2019-10-02",
+      "regularSeasonEndDate": "2020-03-11",
+      "seasonEndDate": "2020-10-08",
+      "numberOfGames": 82,
+      "tiesInUse": false,
+      "olympicsParticipation": false,
+      "conferencesInUse": true,
+      "divisionsInUse": true,
+      "wildCardInUse": true
+    }
+  ]
+}

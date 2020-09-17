@@ -1,0 +1,44 @@
+[
+  {
+    "abbrev": "G",
+    "code": "G",
+    "fullName": "Goalie",
+    "type": "Goalie"
+  },
+  {
+    "abbrev": "D",
+    "code": "D",
+    "fullName": "Defenseman",
+    "type": "Defenseman"
+  },
+  {
+    "abbrev": "RW",
+    "code": "R",
+    "fullName": "Right Wing",
+    "type": "Forward"
+  },
+  {
+    "abbrev": "LW",
+    "code": "L",
+    "fullName": "Left Wing",
+    "type": "Forward"
+  },
+  {
+    "abbrev": "C",
+    "code": "C",
+    "fullName": "Center",
+    "type": "Forward"
+  },
+  {
+    "abbrev": "N/A",
+    "code": "N/A",
+    "fullName": "Unknown",
+    "type": "Unknown"
+  },
+  {
+    "abbrev": "Head Coach",
+    "code": "HC",
+    "fullName": "Head Coach",
+    "type": "Coach"
+  }
+]

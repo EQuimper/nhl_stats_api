@@ -1,0 +1,44 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved.",
+  "stats": [
+    {
+      "type": {
+        "displayName": "statsSingleSeason"
+      },
+      "splits": [
+        {
+          "season": "20192020",
+          "stat": {
+            "timeOnIce": "1213:55",
+            "assists": 27,
+            "goals": 17,
+            "pim": 35,
+            "shots": 179,
+            "games": 71,
+            "hits": 32,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 11,
+            "powerPlayTimeOnIce": "164:50",
+            "evenTimeOnIce": "1047:41",
+            "penaltyMinutes": "35",
+            "faceOffPct": 48.85,
+            "shotPct": 9.5,
+            "gameWinningGoals": 3,
+            "overTimeGoals": 2,
+            "shortHandedGoals": 0,
+            "shortHandedPoints": 0,
+            "shortHandedTimeOnIce": "01:24",
+            "blocked": 13,
+            "plusMinus": -3,
+            "points": 44,
+            "shifts": 1518,
+            "timeOnIcePerGame": "17:05",
+            "evenTimeOnIcePerGame": "14:45",
+            "shortHandedTimeOnIcePerGame": "00:01",
+            "powerPlayTimeOnIcePerGame": "02:19"
+          }
+        }
+      ]
+    }
+  ]
+}
